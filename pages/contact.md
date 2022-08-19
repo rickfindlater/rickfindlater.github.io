@@ -6,6 +6,6 @@ body_classes: page-contact
 
 ## Contact Info
 
-- **Email:** example@example.com
-- **Phone:** +61 0417 123 XXX
-- **Address:** Clem Jones Promenade, South Brisbane QLD 4101 (View Map)
+- **Email:** rickfindlater@gmail.com
+- **Location:** Wellington, New Zealand
+- **Linkedin:** <a href="https://www.linkedin.com/in/rick-findlater/">linkedin.com/in/rick-findlater</a>

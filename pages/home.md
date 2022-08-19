@@ -1,10 +1,10 @@
 ---
 layout: home
 permalink: "/"
-title: "Curate is a premium portfolio for <strong>Jekyll.</strong>"
-description: "Showcase your projects, work and portfolio with multiple layouts and styles."
-meta_description: "Jekyll Curate is a premium Jekyll blog theme"
-meta_title: Jekyll Curate
+title: "Rick Findlater"
+description: "Hi there, below is a selection of recent projects I have been a part of. My resume is available here and my contact details are here. I would love to hear from you!"
+meta_description: "Rick Findlater - Product design & management, digital strategy, optimisation & leadership"
+meta_title: Rick Findlater
 subscribe: false
 
 projects:
