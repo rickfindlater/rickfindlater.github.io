@@ -7266,6 +7266,8 @@ body { margin: 0; font-family: DM Sans, -apple-system, "Helvetica Neue", Arial, 
 
 .page-project .project-date span, .page-project .project-role span, .page-project .project-client span { display: inline-block; font-weight: 400; }
 
+.footer, .bottom { background-color: var(--color-base-bg-2); }
+
 .card-post { display: flex; flex-direction: column; height: 100%; padding: 0; overflow: hidden; position: relative; border-radius: 0px; }
 
 .card-post .card-thumbnail { border-radius: 0px; overflow: hidden; }

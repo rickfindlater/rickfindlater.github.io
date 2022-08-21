@@ -26,9 +26,6 @@ main:
         icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
         description: "Top layout"
         url: /projects/project-4/
-  - name: Blog
-    url: /blog/
-    weight: 2
   - name: About
     url: /about/
     weight: 3
@@ -48,34 +45,12 @@ footer_primary:
     url: /projects/project-4/
 
 footer_secondary:
-  - name: Blog
-    url: /blog/
-    weight: 2
+  - name: Home
+    url: /
+    weight: 1
   - name: About
     url: /about/
-    weight: 3
+    weight: 2
   - name: Contact
     url: /contact/
-    weight: 4
-  - name: Privacy Policy
-    url: /privacy-policy/
-    weight: 1
-  - name: Terms and Conditions
-    url: /terms-and-conditions/
-    weight: 2
-
-footer_tertiary:
-  - name: Privacy Policy
-    url: /privacy-policy/
-    weight: 1
-  - name: Terms and Conditions
-    url: /terms-and-conditions/
-    weight: 2
-
-bottom:
-  - name: Privacy Policy
-    url: /privacy-policy/
     weight: 3
-  - name: Terms and Conditions
-    url: /terms-and-conditions/
-    weight: 4

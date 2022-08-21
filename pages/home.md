@@ -6,6 +6,7 @@ description: "Hi there, below is a selection of recent projects I have been a pa
 meta_description: "Rick Findlater - Product design & management, digital strategy, optimisation & leadership"
 meta_title: Rick Findlater
 subscribe: false
+posts: false
 
 projects:
   heading: ""
@@ -16,14 +17,4 @@ projects:
   view_more_button_link: ""
   view_more_button_align: ""
   columns: 2 # 1 | 2 | 3 | 4
-
-posts:
-  heading: "Recent Blog Posts"
-  sub_heading: ""
-  limit: 3
-  sort: date # date | weight
-  view_more_button_text: ""
-  view_more_button_link: ""
-  view_more_button_align: ""
-  columns: 3 # 1 | 2 | 3 | 4
 ---

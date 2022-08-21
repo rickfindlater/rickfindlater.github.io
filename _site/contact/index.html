@@ -5,7 +5,7 @@
     <meta content="ie=edge" http-equiv="x-ua-compatible">
     <meta content="width=device-width, initial-scale=1" name="viewport">
 
-    <title>Contact - Jekyll Curate</title>
+    <title>Contact - Rick Findlater</title>
 
 
 
@@ -31,7 +31,7 @@
     
 
   </head>
-<body class="page page-contact has-static-header">
+<body class="page page-contact has-fixed-header">
 
 
 <div class="menu-main-mobile " id="menu-main-mobile">
@@ -52,10 +52,6 @@
         
           <li class="menu-item-projects">
             <a href="/projects/">Projects</a>
-          </li>
-        
-          <li class="menu-item-blog">
-            <a href="/blog/">Blog</a>
           </li>
         
           <li class="menu-item-about">
@@ -118,14 +114,14 @@
 
 
 
-<div id="header" class='header '>
+<div id="header" class='header header-fixed'>
   <div class="container">
     <div class="logos">
   <div class="logo logo-desktop">
     
       <div class="logo-image">
         <a href="/">
-          <img height="28px" width="28px" alt="Jekyll Curate Logo" src="/assets/images/logo/logo.png"/>
+          <img height="28px" width="28px" alt="Rick Findlater Logo" src="/assets/images/logo/logo.png"/>
         </a>
       </div>
     
@@ -139,7 +135,7 @@
     
       <div class="logo-image">
         <a href="/">
-          <img height="28px" width="28px" alt="Jekyll Curate Logo" src="/assets/images/logo/logo-invert.png"/>
+          <img height="28px" width="28px" alt="Rick Findlater Logo" src="/assets/images/logo/logo-invert.png"/>
         </a>
       </div>
     
@@ -153,7 +149,7 @@
     
       <div class="logo-image">
         <a href="/">
-          <img height="28px" width="28px" alt="Jekyll Curate Logo" src="/assets/images/logo/logo-mobile.png"/>
+          <img height="28px" width="28px" alt="Rick Findlater Logo" src="/assets/images/logo/logo-mobile.png"/>
         </a>
       </div>
     
@@ -168,7 +164,7 @@
     
       <div class="logo-image">
         <a href="/">
-          <img height="28px" width="28px" alt="Jekyll Curate Logo" src="/assets/images/logo/logo-invert-mobile.png"/>
+          <img height="28px" width="28px" alt="Rick Findlater Logo" src="/assets/images/logo/logo-invert-mobile.png"/>
         </a>
       </div>
     
@@ -262,13 +258,6 @@
             
           </div>
 
-        </li>
-      
-    
-      
-        
-        <li class="">
-          <a href="/blog/">Blog</a>
         </li>
       
     
@@ -372,29 +361,125 @@
     <div class="row justify-content-start">
       <div class="col-12 col-lg-8">
         
-          <div class="contact">
-  <form action="/contact/success" data-netlify="true" method="POST" name="contact">
-
-  <div class="form-group">
-    <label for="name">Name</label>
-    <input type="text" id="name" name="name" placeholder="Your name..">
-  </div>
-
-  <div class="form-group">
-    <label for="email">Email</label>
-    <input type="text" id="email" name="email" placeholder="Your email..">
-  </div>
-
-
-  <div class="form-group">
+          <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="" method="post">
+  <fieldset id="fs-frm-inputs">
+    <label for="full-name">Full Name</label>
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+    <label for="email-address">Email Address</label>
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
     <label for="message">Message</label>
-    <textarea id="message" name="message" placeholder="Write something.." style="height:200px"></textarea>
-  </div>
+    <textarea rows="5" name="message" id="message" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+  </fieldset>
+  <input type="submit" value="Submit">
+</form><style>/* reset */
 
-  <input class="button" type="submit" value="Submit">
+#fs-frm input,
+#fs-frm select,
+#fs-frm textarea,
+#fs-frm fieldset,
+#fs-frm optgroup,
+#fs-frm label,
+#fs-frm #card-element:disabled {
+  font-family: inherit;
+  font-size: 100%;
+  color: inherit;
+  border: none;
+  border-radius: 0;
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+#fs-frm label,
+#fs-frm legend,
+#fs-frm ::placeholder {
+  margin-bottom: .5rem;
+  padding-top: .2rem;
+  display: flex;
+  align-items: baseline;
+}
 
-  </form>
-</div>
+/* border, padding, margin, width */
+#fs-frm input,
+#fs-frm select,
+#fs-frm textarea,
+#fs-frm #card-element {
+  border: 1px solid rgba(0,0,0,0.2);
+  background-color: rgba(255,255,255,0.9);
+  padding: .75em 1rem;
+  margin-bottom: 1.5rem;
+}
+#fs-frm input:focus,
+#fs-frm select:focus,
+#fs-frm textarea:focus {
+  background-color: white;
+  outline-style: solid;
+  outline-width: thin;
+  outline-color: gray;
+  outline-offset: -1px;
+}
+#fs-frm [type="text"],
+#fs-frm [type="email"] {
+  width: 100%;
+}
+#fs-frm [type="button"],
+#fs-frm [type="submit"],
+#fs-frm [type="reset"] {
+  width: auto;
+  cursor: pointer;
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+}
+#fs-frm [type="button"]:focus,
+#fs-frm [type="submit"]:focus,
+#fs-frm [type="reset"]:focus {
+  outline: none;
+}
+#fs-frm [type="submit"],
+#fs-frm [type="reset"] {
+  margin-bottom: 0;
+}
+#fs-frm select {
+  text-transform: none;
+}
+
+#fs-frm [type="checkbox"] {
+  -webkit-appearance: checkbox;
+  -moz-appearance: checkbox;
+  appearance: checkbox;
+  display: inline-block;
+  width: auto;
+  margin: 0 .5em 0 0 !important;
+}
+
+#fs-frm [type="radio"] {
+  -webkit-appearance: radio;
+  -moz-appearance: radio;
+  appearance: radio;
+}
+
+/* address, locale */
+#fs-frm fieldset.locale input[name="city"],
+#fs-frm fieldset.locale select[name="state"],
+#fs-frm fieldset.locale input[name="postal-code"] {
+  display: inline;
+}
+#fs-frm fieldset.locale input[name="city"] {
+  width: 52%;
+}
+#fs-frm fieldset.locale select[name="state"],
+#fs-frm fieldset.locale input[name="postal-code"] {
+  width: 20%;
+}
+#fs-frm fieldset.locale input[name="city"],
+#fs-frm fieldset.locale select[name="state"] {
+  margin-right: 3%;
+}
+</style>
         
       </div>
     </div>
@@ -410,11 +495,11 @@
         <div class="col-12 col-md-4">
           <div class="footer-info">
             
-              <h2>Jekyll Curate</h2>
+              <h2>Rick Findlater</h2>
             
 
             
-              <p>Curate is a creative portfolio for Jekyll by Zerostatic Themes.</p>
+              <p>Product design, digital strategy, optimisation & leadership</p>
             
           </div>
 
@@ -498,14 +583,14 @@
             
               <div class="col-12 col-md-3 mt-gutter mt-md-0">
                 
-                  <div class="footer-heading">Agency</div>
+                  <div class="footer-heading">Site</div>
                 
                 
 <div class="menu-footer">
   <ul>
     
       <li class="">
-        <a href="/blog/">Blog</a>
+        <a href="/">Home</a>
       </li>
     
       <li class="">
@@ -514,14 +599,6 @@
     
       <li class="active">
         <a href="/contact/">Contact</a>
-      </li>
-    
-      <li class="">
-        <a href="/privacy-policy/">Privacy Policy</a>
-      </li>
-    
-      <li class="">
-        <a href="/terms-and-conditions/">Terms and Conditions</a>
       </li>
     
   </ul>
@@ -541,8 +618,30 @@
 
 
 
+  <div class="bottom">
+  <div class="container relative">
+    <div class="row align-items-center justify-content-between">
+      <div class="col-auto">
+        
+          <div class="menu-bottom">
+  <ul>
+    
+  </ul>
+</div>
+        
+        
+          <div class="copyright">© 2022 Rick Findlater</div>
+        
+      </div>
+      
+    </div>
+  </div>
+</div>
+
 
 <script type="text/javascript" src="/assets/js/scripts.js"></script>
+
+  <script type="text/javascript" src="/assets/js/header.js"></script>
 
 <script type="text/javascript" src="/assets/js/hamburger.js"></script>
 <script type="text/javascript" src="/assets/js/darkModeSwitch.js"></script>
