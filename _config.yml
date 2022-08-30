@@ -18,7 +18,7 @@ collections:
     output: false
     permalink: /blog/:path/
   projects:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 # Pages
@@ -52,6 +52,7 @@ exclude:
   - README.md
   - LICENSE
   - netlify.toml
+  - .DS_Store
 
 
 # -------------------
