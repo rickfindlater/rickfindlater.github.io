@@ -8,6 +8,8 @@ image: "/assets/images/gen/projects/wipster-vim.jpg"
 client: "Wipster"
 gallery:
   - image: "/assets/images/gen/projects/wipster-vim.jpg"
+  - image: "/assets/images/gen/projects/vimwip2.jpg"
+  - image: "/assets/images/gen/projects/vimwip1.jpg"
 ---
 
 ### The opportunity

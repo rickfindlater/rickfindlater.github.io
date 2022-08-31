@@ -1,6 +1,7 @@
 ---
 layout: project-right # alternative layouts: project, project-left, project-right, project-top
 title: "Catalyst PaCT"
+permalink: "/projects/catalyst-pact/"
 description: ""
 weight: 6
 date: 2018-12-20

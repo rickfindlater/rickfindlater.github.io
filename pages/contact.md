@@ -1,10 +1,9 @@
 ---
 layout: contact
-title: Contact
 body_classes: page-contact
 ---
 
-## Contact Info
+# Contact Info
 
 - **Email:** rickfindlater@gmail.com
 - **Location:** Wellington, New Zealand
