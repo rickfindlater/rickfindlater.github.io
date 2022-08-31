@@ -1,20 +1,21 @@
 ---
 layout: home
 permalink: "/"
-title: "Rick Findlater"
-description: "Hi there, below is a selection of recent projects I have been a part of. My resume is available here and my contact details are here. I would love to hear from you!"
+title: "Hi, I'm Rick"
+description: "I specialise in product design, product management, digital strategy, optimisation & leadership. Below is a selection of recent projects I have worked on."
 meta_description: "Rick Findlater - Product design & management, digital strategy, optimisation & leadership"
 meta_title: Rick Findlater
 subscribe: false
-posts: false
 
 projects:
   heading: ""
   sub_heading: ""
   limit: 6
-  sort: date # date | weight
+  sort: weight # date | weight
   view_more_button_text: ""
   view_more_button_link: ""
   view_more_button_align: ""
   columns: 2 # 1 | 2 | 3 | 4
+
+posts: false
 ---

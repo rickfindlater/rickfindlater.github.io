@@ -1,10 +1,10 @@
 ---
 layout: basic
-title: "Hi I'm Rick"
-date: 2018-11-28T15:15:34+10:00
+title: ""
 permalink: "/about/"
 description: ""
 image: "/assets/images/gen/content/profile.png"
+body_classes: page-about
 ---
 
 # I love creating joyful experiences that make technology accessible and help people achieve their goals

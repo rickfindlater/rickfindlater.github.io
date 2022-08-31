@@ -1,4 +1,4 @@
-:root { --color-primary: #0d042b; --color-primary-2: #0d042b; --color-primary-text: #fdfcf9; --color-base-bg: #fdfcf9; --color-base-bg-2: #f7f6ed; --color-base-bg-3: #faebd7; --color-base-text: #0d042b; --color-base-text-2: #3b364c; --color-logo-text: #111827; }
+:root { --color-primary: #0d042b; --color-primary-2: #0d042b; --color-primary-text: #fdfcf9; --color-base-bg: #ffffff; --color-base-bg-2: #f7f6ed; --color-base-bg-3: #faebd7; --color-base-text: #0d042b; --color-base-text-2: #3b364c; --color-logo-text: #111827; }
 
 html[data-mode='dark'] { --color-primary: #0d042b; --color-primary-2: #0d042b; --color-primary-text: #fdfcf9; --color-base-bg: #0b0326; --color-base-bg-2: #150c32; --color-base-bg-3: #251654; --color-base-text: #f5f5ec; --color-base-text-2: #929eaf; --color-logo-text: #F4F4F5; }
 
@@ -7267,6 +7267,8 @@ body { margin: 0; font-family: DM Sans, -apple-system, "Helvetica Neue", Arial, 
 .page-project .project-date span, .page-project .project-role span, .page-project .project-client span { display: inline-block; font-weight: 400; }
 
 .footer, .bottom { background-color: var(--color-base-bg-2); }
+
+.logo-text a:hover { text-decoration: none; }
 
 .card-post { display: flex; flex-direction: column; height: 100%; padding: 0; overflow: hidden; position: relative; border-radius: 0px; }
 
