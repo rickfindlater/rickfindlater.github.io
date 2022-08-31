@@ -7270,6 +7270,16 @@ body { margin: 0; font-family: DM Sans, -apple-system, "Helvetica Neue", Arial, 
 
 .logo-text a:hover { text-decoration: none; }
 
+.download-button { border: 1px solid white; color: white !important; display: inline-block; background: #0d042b; padding: 0 20px; border-radius: 5px; font-size: 16px; height: 50px; line-height: 50px; text-decoration: none !important; }
+
+.download-button:hover { border: 1px solid white; text-decoration: none !important; background: #37304F; }
+
+.page-about .content { margin-top: 120px; }
+
+.page-about .content .about-img { float: left; max-width: 470px; margin: 10px 40px 60px 0; }
+
+.page-resume .content { margin-top: 120px; }
+
 .card-post { display: flex; flex-direction: column; height: 100%; padding: 0; overflow: hidden; position: relative; border-radius: 0px; }
 
 .card-post .card-thumbnail { border-radius: 0px; overflow: hidden; }

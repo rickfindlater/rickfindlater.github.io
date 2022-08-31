@@ -5,6 +5,8 @@ description: ""
 body_classes: page-resume
 ---
 
+<a class="download-button" href="/assets/downloads/RICK-FINDLATER-RESUME.pdf">Download Resume/CV</a>
+
 # Career History
 
 ## Head of design -  Melon Health

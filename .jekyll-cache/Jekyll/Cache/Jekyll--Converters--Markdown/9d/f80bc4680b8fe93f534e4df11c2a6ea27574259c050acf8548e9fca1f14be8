@@ -1,12 +1,9 @@
----
-layout: basic
-title: ""
-permalink: "/about/"
-description: ""
-body_classes: page-about
----
+I"è<div class="about-wrapper">
+<div class="about-img">
+    <img src="/assets/images/gen/content/profile.png" class="about-img" />
+</div>
 
-<img src="/assets/images/gen/content/profile.png" class="about-img" />
+<div class="about-content">
 
 # I love creating joyful experiences that make technology accessible and help people achieve their goals
 
@@ -17,3 +14,7 @@ I strongly believe that creating great product is a team sport. I have spent my 
 I have also managed and led product teams. Using my experience to coach, support and mentor others to do their best work is something that I get great satisfaction from.
 
 Outside of work I enjoy spending time with my family, squash, skiing, swimming, cooking and travelling.
+
+</div>
+</div>
+:ET
