@@ -7,6 +7,10 @@
     background-color: var(--color-base-bg-2);
 }
 
+.menu-main ul li > a {
+    color: var(--color-base-text);
+}
+
 .logo-text a:hover {
     text-decoration: none;
 }

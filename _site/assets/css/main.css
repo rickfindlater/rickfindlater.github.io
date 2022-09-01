@@ -7268,6 +7268,8 @@ body { margin: 0; font-family: DM Sans, -apple-system, "Helvetica Neue", Arial, 
 
 .footer, .bottom { background-color: var(--color-base-bg-2); }
 
+.menu-main ul li > a { color: var(--color-base-text); }
+
 .logo-text a:hover { text-decoration: none; }
 
 .download-button { border: 1px solid white; color: white !important; display: inline-block; background: #0d042b; padding: 0 20px; border-radius: 5px; font-size: 16px; height: 50px; line-height: 50px; text-decoration: none !important; }
