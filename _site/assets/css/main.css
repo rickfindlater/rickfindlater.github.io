@@ -7276,19 +7276,19 @@ body { margin: 0; font-family: DM Sans, -apple-system, "Helvetica Neue", Arial, 
 
 .download-button:hover { border: 1px solid white; text-decoration: none !important; background: #37304F; }
 
-.page-about .row { margin-top: 110px; }
+.page-about .basic-main-row { margin-top: 110px; }
 
-@media (max-width: 850px) { .page-about .row { margin-top: 80px; } }
+@media (max-width: 850px) { .page-about .basic-main-row { margin-top: 80px; } }
 
-.page-about .row .col-12 { display: flex; }
+.page-about .basic-main-row .basic-main-content { display: flex; }
 
-@media (max-width: 850px) { .page-about .row .col-12 { display: block; } }
+@media (max-width: 850px) { .page-about .basic-main-row .basic-main-content { display: block; } }
 
-.page-about .row .col-12 .heading .heading-image { margin: 10px 40px 0 0; min-width: 450px; }
+.page-about .basic-main-row .basic-main-content .heading .heading-image { margin: 5px 50px 0 0; min-width: 450px; }
 
-@media (max-width: 1000px) { .page-about .row .col-12 .heading .heading-image { min-width: 350px; } }
+@media (max-width: 1000px) { .page-about .basic-main-row .basic-main-content .heading .heading-image { min-width: 350px; } }
 
-@media (max-width: 850px) { .page-about .row .col-12 .heading .heading-image { max-width: 450px; min-width: auto; margin: 0 0 20px 0; } }
+@media (max-width: 850px) { .page-about .basic-main-row .basic-main-content .heading .heading-image { max-width: 450px; min-width: auto; margin: 0 0 20px 0; } }
 
 .page-resume .content { margin-top: 120px; }
 
