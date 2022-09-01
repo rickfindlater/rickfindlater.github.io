@@ -380,14 +380,14 @@
     <div class="row justify-content-start">
       <div class="col-12 col-lg-8">
         
-          <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="" method="post">
+          <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mvoygoor" method="post">
   <fieldset id="fs-frm-inputs">
-    <label for="full-name">Full Name</label>
-    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+    <label for="full-name">Name</label>
+    <input type="text" name="name" id="full-name" placeholder="Optional">
     <label for="email-address">Email Address</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+    <input type="email" name="_replyto" id="email-address" placeholder="Please add a contact email address" required="">
     <label for="message">Message</label>
-    <textarea rows="5" name="message" id="message" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
+    <textarea rows="5" name="message" id="message" placeholder="Please add a message here" required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Submit">
@@ -431,6 +431,11 @@
   padding: .75em 1rem;
   margin-bottom: 1.5rem;
 }
+#fs-frm textarea,
+#fs-frm input {
+  color: #000000;
+
+}
 #fs-frm input:focus,
 #fs-frm select:focus,
 #fs-frm textarea:focus {
@@ -461,6 +466,7 @@
 #fs-frm [type="submit"],
 #fs-frm [type="reset"] {
   margin-bottom: 0;
+  color: #000000;
 }
 #fs-frm select {
   text-transform: none;
