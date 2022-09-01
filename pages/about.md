@@ -2,11 +2,9 @@
 layout: basic
 title: ""
 permalink: "/about/"
-description: ""
 body_classes: page-about
+image: "/assets/images/gen/content/profile.png"
 ---
-
-<img src="/assets/images/gen/content/profile.png" class="about-img" />
 
 # I love creating joyful experiences that make technology accessible and help people achieve their goals
 

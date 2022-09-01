@@ -9,6 +9,11 @@ body_classes: page-basic
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-12 col-lg-12">
+          
+          {% include framework/blocks/sections/heading.html
+            image=page.image
+          %}
+
           <div class="content">{{ content }}</div>
         </div>
       </div>
