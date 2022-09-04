@@ -133,7 +133,7 @@ menu:
 footer:
   enable_footer: true # show/hide the entire footer
   footer_title: "Rick Findlater"
-  footer_description: "Product design, digital strategy, optimisation & leadership"
+  footer_description: "Product design, product management, digital strategy, optimisation & leadership"
   enable_social_media_icons: true
   enable_menu_footer_primary: true
   enable_menu_footer_secondary: true
