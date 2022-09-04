@@ -7292,6 +7292,10 @@ body { margin: 0; font-family: DM Sans, -apple-system, "Helvetica Neue", Arial, 
 
 .page-resume .content { margin-top: 120px; }
 
+.page-resume .content h2, .page-resume .content h1#academic { border-top: 1px solid var(--color-base-text-2); padding-top: 45px; margin-top: 50px; }
+
+.page-resume .content h2#head-of-design----melon-health, .page-resume .content h2#natcoll-design-technology-school, .page-resume .content h1#academic#head-of-design----melon-health, .page-resume .content h1#academic#natcoll-design-technology-school { border-top: none; padding-top: 20px; }
+
 .page-contact .section { padding-bottom: 50px !important; }
 
 .page-contact .content { margin-top: 140px; }

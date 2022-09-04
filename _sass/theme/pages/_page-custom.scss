@@ -76,6 +76,19 @@
 
     .content {
         margin-top: 120px;
+
+        h2,
+        h1#academic {
+            border-top: 1px solid var(--color-base-text-2);
+            padding-top: 45px;
+            margin-top: 50px;
+
+            &#head-of-design----melon-health,
+            &#natcoll-design-technology-school {
+                border-top: none;
+                padding-top: 20px;
+            }
+        }
     }
 }
 
