@@ -1,5 +1,5 @@
 ---
-layout: project-left
+layout: project-right
 title: "Melon rebrand"
 description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
 weight: 2

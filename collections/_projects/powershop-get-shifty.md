@@ -1,5 +1,5 @@
 ---
-layout: project-left
+layout: project-right
 title: "Powershop Get Shifty"
 description: "Flux Federation"
 weight: 4

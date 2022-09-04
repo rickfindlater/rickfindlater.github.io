@@ -1,5 +1,5 @@
 ---
-layout: project-left
+layout: project-right
 title: "Wipster + Vimeo"
 description: "Wipster"
 weight: 5
