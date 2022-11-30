@@ -9,6 +9,21 @@ body_classes: page-resume
 
 # Career History
 
+
+## Senior product designer and optmisation specialist - Hatch Invest
+
+#### April 2019 – Present
+
+#### Duties
+
+- Optimisation of the Hatch app, Hatch Website, the customer onboarding flow and conversion to signup by use of experimentation and iteration.
+- Product design and product management of the Hatch App and Public Website.
+- Close collaboration with other members of the Hatch product team as well as with other teams in the business.
+- Identifying gaps in the Hatch customer journey and planning and implementing initiatives to plug those gaps.
+- Development and technical direction of the Hatch public website.
+- Providing mentorship for other members of the Product team.
+- Learning and maintaining a deep knowledge of share markets and financial markets.
+
 ## Head of design -  Melon Health
 
 #### January 2019 – January 2021
