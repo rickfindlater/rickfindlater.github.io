@@ -14,7 +14,7 @@ body_classes: page-resume
 
 #### April 2019 – Present
 
-#### Duties
+#### Duties:
 
 - Optimisation of the Hatch app, Hatch Website, the customer onboarding flow and conversion to signup by use of experimentation and iteration.
 - Product design and product management of the Hatch App and Public Website.
