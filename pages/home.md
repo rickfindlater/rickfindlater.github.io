@@ -10,7 +10,7 @@ subscribe: false
 projects:
   heading: ""
   sub_heading: ""
-  limit: 6
+  limit: 8
   sort: weight # date | weight
   view_more_button_text: ""
   view_more_button_link: ""

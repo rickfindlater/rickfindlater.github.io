@@ -22,6 +22,7 @@ body_classes: page-resume
 - Identifying gaps in the Hatch customer journey and planning and implementing initiatives to plug those gaps.
 - Development and technical direction of the Hatch public website.
 - Providing mentorship for other members of the Product team.
+- Helping create and maintain the Hatch design system.
 - Learning and maintaining a deep knowledge of share markets and financial markets.
 
 ## Head of design -  Melon Health
@@ -36,6 +37,7 @@ body_classes: page-resume
 - Strategic direction of the the Melon product, brand and design and research practices. 
 - Close collaboration with other members of the Melon leadership team and other stakeholders to ensure the smooth running of product design and delivery agile process, and to steer Melon’s business strategy and vision.
 - Establishing and maintaining a robust product discovery process through ensuring the flow of customer and competitor data back into the product cycle.
+- Helping create and maintain the Melon design system.
 - Maintaining a deep knowledge of current trends in the health sector.
 
 ## Senior Product Designer - Flux Federation

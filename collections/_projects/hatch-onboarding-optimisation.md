@@ -1,14 +1,14 @@
 ---
 layout: project-right # alternative layouts: project, project-left, project-right, project-top
-title: "Melon Piki"
-description: "Ministry of Health initiative; delivered by Tu Ora Compass Health PHO across the Greater Wellington area"
-weight: 3
-thumbnail: "/assets/images/gen/projects/melon-piki-thumb.png"
+title: "Hatch App Customer Onboarding"
+description: "Optimisation of the Hatch customer onboarding experience"
+weight: 1
+thumbnail: "/assets/images/gen/projects/hatch-invest-in.png"
 image: "/assets/images/gen/projects/melon-piki-thumb.png"
-client: "Melon Health and Ministry of Health"
+client: "Hatch Invest"
 gallery:
-  - image: "/assets/images/gen/projects/melon-piki-thumb.png"
-  - image: "/assets/images/gen/projects/piki-layout.png"
+  # - image: "/assets/images/gen/projects/hatch-invest-in.png"
+  - image: "/assets/images/gen/projects/hatch-email.png"
 gallery_limit: 3
 ---
 

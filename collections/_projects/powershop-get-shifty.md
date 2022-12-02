@@ -2,7 +2,7 @@
 layout: project-right
 title: "Powershop Get Shifty"
 description: "Flux Federation"
-weight: 4
+weight: 6
 thumbnail: "/assets/images/gen/projects/ps-get-shift-cover.png"
 image: "/assets/images/gen/projects/ps-get-shift-cover.png"
 client: "Flux Federation"
