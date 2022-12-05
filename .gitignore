@@ -1,1 +1,14 @@
 .DS_Store
+
+# Added when running `jekyll new PATH` or serving in incremental mode.
+.jekyll-metadata
+
+# Generated output.
+_site/
+
+.jekyll-cache/
+.sass-cache/
+
+# Bundle's config.
+.bundle/
+vendor/
