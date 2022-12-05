@@ -16,8 +16,8 @@ body_classes: page-resume
 
 #### Duties:
 
-- Optimisation of the Hatch app, Hatch Website, the customer onboarding flow and conversion to signup rate, by use of experimentation and iteration.
-- Product design and product management of the Hatch App and Public Website.
+- Optimisation of the Hatch app, Hatch website, the customer onboarding flow and conversion to signup rate, by use of experimentation and iteration.
+- Product design and product management of the Hatch app and public website.
 - Close collaboration with other members of the Hatch product team as well as with other teams in the business.
 - Identifying gaps in the Hatch customer journey and planning and implementing initiatives to plug those gaps.
 - Development and technical direction of the Hatch public website.
@@ -31,7 +31,7 @@ body_classes: page-resume
 
 #### Duties:
 
-- Leadership, management and mentorship of a team of product designers.
+- Leadership, management and mentorship of a team of product and marketing designers.
 - User research, data analysis, interface design, prototyping and user testing.
 - Product management.
 - Strategic direction of the the Melon product, brand and design and research practices. 
