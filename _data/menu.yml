@@ -6,6 +6,16 @@ main:
     url: /projects/
     weight: 2
     child:
+      - name: "Hatch Onboarding"
+        icon: "/assets/images/icons/hatch-cross-smll.svg"
+        icon_darkmode: "/assets/images/icons/hatch-cross-smll.svg"
+        description: "Hatch Invest"
+        url: /projects/hatch-onboarding/
+      - name: "Hatch Website Optimisation"
+        icon: "/assets/images/icons/hatch-logo-smll.svg"
+        icon_darkmode: "/assets/images/icons/hatch-logo-smll.svg"
+        description: "Hatch Invest"
+        url: /projects/hatch-website/
       - name: "Melon Piki"
         icon: "/assets/images/icons/piki.svg"
         icon_darkmode: "/assets/images/icons/piki.svg"
@@ -48,6 +58,10 @@ main:
   
 
 footer_primary:
+  - name: "Hatch Onboarding"
+    url: /projects/hatch-onboarding/
+  - name: "Hatch Website Optimisation"
+    url: /projects/hatch-website/
   - name: "Melon Piki"
     url: /projects/melon-piki/
   - name: "Melon rebrand"

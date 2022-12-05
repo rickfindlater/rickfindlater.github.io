@@ -1,8 +1,9 @@
 ---
 layout: project-right # alternative layouts: project, project-left, project-right, project-top
 title: "Hatch Website Optimisation"
-description: "Optimisation of the Hatch customer onboarding experience"
+description: "Optimisation of the Hatch public website"
 weight: 2
+permalink: /projects/hatch-website/
 thumbnail: "/assets/images/gen/projects/hatch-website.png"
 image: "/assets/images/gen/projects/hatch-website.png"
 client: "Hatch Invest"
@@ -13,34 +14,37 @@ gallery:
 gallery_limit: 3
 ---
 
-### The opportunity
+### The opportunity 
 
-In early 2019 Melon was selected to be part of a new Ministry of Health initiative; delivered by Tu Ora Compass Health PHO across the Greater Wellington area. The initiative was called Piki.
+The Hatch public website serves a vital role in the Hatch customer journey particularly during the awareness and consideration stages. 
 
-The goal was to enable 18 – 25 year olds with mild-moderate mental health conditions to access a wider range of age appropriate support faster.
+Having worked in many SaaS tech businesses in the past I have always viewed a companies public website as a highly important part of the product. It is the first thing that prospective customers see and in many cases the first place they go everytime they log in.
 
-At the time Melon didn't specifically target this age group so we needed to create a new program of multimedia resources as well as make UX changes to our product.
+It became clear after I started at Hatch that the public website hadn’t been optimised or even really updated for many years. Myself and my colleagues in the newly minted optimisation team decided to embark upon a project to measure the current performance of the website and optimise it accordingly.
 
-### My role.
+### My role
 
-As the head of design leading a design team in a startup company, I needed to be an effective leader and manager to my team as well as perform ‘hands-on’ tasks across a variety of fields. For this project I was involved from the outset in planning and strategy as well as execution. I conducted research activities as well as being involved in implementation. I needed to direct and support members of my team while working closely with stakeholders and other members of the delivery team.
+Being a product designer who also has development experience enabled me to both design new options for solutions as well as implement those changes. This reduced our reliance on the development team, enabling us to move faster.
 
-​We had a fairly short time period to accomplish this piece of work as the ministry were keen to get a pilot up in running as soon as possible. We also had a fairly small initial budget which meant we needed to ensure we got optimal value from a smaller amount of research.
+### Step one - Research
 
-### Step one - research.
+We started by doing some qualitative and quantitative research into the performance of the current website and uncovered two main areas to improve:
 
-Myself and one other member of my team designed and executed on a program of research which involved surveys, user interviews and user testing. This resulted in an initial set of wireframe concepts.
+- The click to signup rate was low for all pages.
+- We felt that the website wasn't doing a good enough job at explaining the value proposition of Hatch and why customers should choose our product over our competitors.
 
-From this we were able to get a good understanding of both the kind of resources we needed to create as well as the UX changes we need to make to our product in order to make it appeal more to the target age group of 18 - 25 year olds.
+### Step two - Designing experiments
 
-### Step two - reporting back, initial concepts and implementation.
+To start off with, we designed a series of multivariate tests in order to test our theories on improvements. These ranged from simple wording changes to the main navigation and other CTA’s, through to designing completely new content blocks to insert into different pages.
 
-Through the research phase it became clear to us that we needed to do a fairly large redesign of the resources section in the Melon web and mobile apps. Early and close collaboration with stakeholders, developers and testers has always been an important part of my design process so we reported back our findings and worked with the rest of the wider team to create some initial concepts for the redesign of the resources section.
+We used Google Optimise to implement these tests which enabled us to move faster outside of the usual product delivery process. Each experiment would be run for a minimum of two weeks and results were recorded both inside Google Optimise as well as Google Analytics.
 
-We took these initial concepts out into the field and conducted a round of user testing. With the results of this testing we were able to further refine the concepts before working with the wider delivery team to implement them in our products.
+### Step three - Implementing results
 
-We also were able to feed information back to our clinical team to assist in the creation of new resource content specifically for the age group we were targeting.
+Once a clear winning variant was chosen I implemented the results and we moved quickly on to the next test.
 
-### Step three - ongoing work.
+### Step three - Ongoing work
 
-As part of the initial implementation of the Piki project we ensured we added comprehensive analytics tracking. Once the initial phase of the project had been released we began an analysis of this analytics data and, combined with some further user testing and interviews, we were able to release several more iterations on the work we had done.
+This method of iterative and experimental design and implementation proved to be a great success and we were able to significantly improve the conversion rate of many of our key pages. 
+
+This also provided us with strong evidence for the effectiveness of this design method, allowing us to get the backing of the business to implement more experiments both in the public website and the Hatch App.

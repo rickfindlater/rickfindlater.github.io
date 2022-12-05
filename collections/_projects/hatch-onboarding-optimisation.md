@@ -1,10 +1,11 @@
 ---
 layout: project-right # alternative layouts: project, project-left, project-right, project-top
-title: "Hatch App Customer Onboarding"
+title: "Hatch Onboarding"
 description: "Optimisation of the Hatch customer onboarding experience"
 weight: 1
+permalink: /projects/hatch-onboarding/
 thumbnail: "/assets/images/gen/projects/hatch-invest-in.png"
-image: "/assets/images/gen/projects/melon-piki-thumb.png"
+image: "/assets/images/gen/projects/hatch-invest-in.png"
 client: "Hatch Invest"
 gallery:
   # - image: "/assets/images/gen/projects/hatch-invest-in.png"
@@ -14,32 +15,30 @@ gallery_limit: 3
 
 ### The opportunity
 
-In early 2019 Melon was selected to be part of a new Ministry of Health initiative; delivered by Tu Ora Compass Health PHO across the Greater Wellington area. The initiative was called Piki.
+I joined Hatch in 2021 as a product designer to help create a new team focused on experience and conversion rate optimisation.
 
-The goal was to enable 18 – 25 year olds with mild-moderate mental health conditions to access a wider range of age appropriate support faster.
+After some research assessing the performance of the various parts of the Hatch app it became obvious that the area that needed the most attention was the customer onboarding funnel.
 
-At the time Melon didn't specifically target this age group so we needed to create a new program of multimedia resources as well as make UX changes to our product.
+Specially this meant haelping a customer go from signing up to the Hatch up through to becoming a successfull investor.
 
-### My role.
+### My role
 
-As the head of design leading a design team in a startup company, I needed to be an effective leader and manager to my team as well as perform ‘hands-on’ tasks across a variety of fields. For this project I was involved from the outset in planning and strategy as well as execution. I conducted research activities as well as being involved in implementation. I needed to direct and support members of my team while working closely with stakeholders and other members of the delivery team.
+As a product designer my role included working closely with a data specialist to identify the main gaps in the funnel then, through experimentation, design and deliver solutions iteratively.
 
-​We had a fairly short time period to accomplish this piece of work as the ministry were keen to get a pilot up in running as soon as possible. We also had a fairly small initial budget which meant we needed to ensure we got optimal value from a smaller amount of research.
+### Step one - Creating a benchmark
 
-### Step one - research.
+Our first step was to assess the performance of the current onboarding process which consisted of a series of emails being sent out in succession over a couple of weeks. We measured open and click rates as well common activities that users performed in the app after receiving one of these emails. From this we were able to create a benchmark to measure the success of all changes we made.
 
-Myself and one other member of my team designed and executed on a program of research which involved surveys, user interviews and user testing. This resulted in an initial set of wireframe concepts.
+### Step two - Initial design and experimentation
 
-From this we were able to get a good understanding of both the kind of resources we needed to create as well as the UX changes we need to make to our product in order to make it appeal more to the target age group of 18 - 25 year olds.
+Once we had a benchmark set we went to work designing several possible solutions . We made the decision to start with emails as these were able to be designed and built inside a tool called Intercom. This enabled us to measure and iterate faster, being outside of the usual product delivery process. 
 
-### Step two - reporting back, initial concepts and implementation.
+Intercom also enabled us to easily set up and report on multivariate testing of the emails we designed as well as include personalised content to users based on actions they had already taken in the Hatch app.
 
-Through the research phase it became clear to us that we needed to do a fairly large redesign of the resources section in the Melon web and mobile apps. Early and close collaboration with stakeholders, developers and testers has always been an important part of my design process so we reported back our findings and worked with the rest of the wider team to create some initial concepts for the redesign of the resources section.
+### Step two - First results
 
-We took these initial concepts out into the field and conducted a round of user testing. With the results of this testing we were able to further refine the concepts before working with the wider delivery team to implement them in our products.
+After implementation of the new email series we measured and iterated on the multivariate tests we had. Almost immediately we began to see an increase in the percentage of Hatch users going through the onboarding funnel to become successful investors.
 
-We also were able to feed information back to our clinical team to assist in the creation of new resource content specifically for the age group we were targeting.
+### Step two - Ongoing work
 
-### Step three - ongoing work.
-
-As part of the initial implementation of the Piki project we ensured we added comprehensive analytics tracking. Once the initial phase of the project had been released we began an analysis of this analytics data and, combined with some further user testing and interviews, we were able to release several more iterations on the work we had done.
+Having tightened the email onboarding funnel we then moved on to creating in app product tours using the same process as we did for the emails. Again after this we began to see significant increase in the amount of users. We also planned to do the same using other onboarding methods such as SMS and push notifications.
