@@ -7276,6 +7276,8 @@ body { margin: 0; font-family: DM Sans, -apple-system, "Helvetica Neue", Arial, 
 
 .download-button:hover { border: 1px solid white; text-decoration: none !important; background: #37304F; }
 
+.page-home .card-content { padding-left: 10px; }
+
 .page-about .basic-main-row { margin-top: 140px; }
 
 @media (max-width: 850px) { .page-about .basic-main-row { margin-top: 80px; } }
