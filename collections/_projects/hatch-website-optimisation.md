@@ -20,7 +20,7 @@ The Hatch public website serves a vital role in the Hatch customer journey parti
 
 Having worked in many SaaS tech businesses in the past I have always viewed a companies public website as a highly important part of the product. It is usually the first thing that prospective customers see when signing up and in many cases the first place they go everytime they log in.
 
-It became clear after I started at Hatch that the public website hadn’t been optimised or even really updated for many years. Myself and my colleagues in the newly minted optimisation team decided to embark upon a project to measure the current performance of the website and optimise it accordingly.
+It became clear after I started at Hatch that the public website hadn’t been optimised or even really updated for quite some time. Myself and my colleagues in the newly minted optimisation team decided to embark upon a project to measure and benchmark the current performance of the website and optimise it accordingly.
 
 ### My role
 
@@ -35,9 +35,9 @@ We started by doing some qualitative and quantitative research into the performa
 
 ### Step two - Designing experiments
 
-To start off with, we designed a series of multivariate tests in order to test our theories on improvements. These ranged from simple wording changes to the main navigation and other CTA’s, through to designing completely new content blocks to insert into different pages.
+To start off with, we ran some workshops with members of the wider product team to come up with some ideas for improvements. We then designed a series of multivariate tests in order to test these ideas. These ranged from simple wording changes in the main navigation and CTA buttoms, through to designing completely new content blocks to insert into different pages.
 
-We used Google Optimise to implement these tests which enabled us to move faster outside of the usual product delivery process. Each experiment would be run for a minimum of two weeks and results were recorded both inside Google Optimise as well as Google Analytics.
+We used Google Optimise to implement these tests which enabled us to move faster outside of the usual product delivery process. Each experiment would be run for a minimum of two weeks and results were recorded both inside Google Optimise as well as in Google Analytics.
 
 ### Step three - Implementing results
 
@@ -45,6 +45,6 @@ Once a clear winning variant was chosen I implemented the results and we moved q
 
 ### Step three - Ongoing work
 
-This method of iterative and experimental design and implementation proved to be a great success and we were able to significantly improve the conversion rate of many of our key pages. 
+This method of experimental, iterative design and implementation proved to be a great success and we were able to significantly improve the conversion rate of many of our key pages. 
 
 This also provided us with strong evidence for the effectiveness of this design method, allowing us to get the backing of the business to implement more experiments both in the public website and the Hatch App.
