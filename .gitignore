@@ -3,11 +3,4 @@
 # Added when running `jekyll new PATH` or serving in incremental mode.
 .jekyll-metadata
 
-# Generated output.
-_site/
-
 .jekyll-cache/
-
-# Bundle's config.
-.bundle/
-vendor/
