@@ -8,8 +8,9 @@ thumbnail: "/assets/images/gen/projects/hatch-invest-in.png"
 image: "/assets/images/gen/projects/hatch-invest-in.png"
 client: "Hatch Invest"
 gallery:
-  # - image: "/assets/images/gen/projects/hatch-invest-in.png"
   - image: "/assets/images/gen/projects/hatch-email.png"
+  - image: "/assets/images/gen/projects/int-series.png"
+  - image: "/assets/images/gen/projects/prod-tours.png"
 gallery_limit: 3
 ---
 
