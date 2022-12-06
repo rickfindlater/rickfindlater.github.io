@@ -7,7 +7,6 @@
 _site/
 
 .jekyll-cache/
-.sass-cache/
 
 # Bundle's config.
 .bundle/
