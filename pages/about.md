@@ -14,4 +14,4 @@ I strongly believe that creating great product is a team sport. I have spent my 
 
 I have also managed and led product teams. Using my experience to coach, support and mentor others to do their best work is something that I get great satisfaction from.
 
-Outside of work I enjoy spending time with my family, squash, skiing, swimming, cooking and travelling.
+Outside of work I enjoy spending time with my family, squash, skiing, swimming, cooking.
