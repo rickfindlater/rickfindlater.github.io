@@ -6,12 +6,12 @@ body_classes: page-about
 image: "/assets/images/gen/content/profile.png"
 ---
 
-# I love creating joyful experiences that make technology accessible and help people achieve their goals
+# I love creating joyful experiences that make technology accessible and empower people to achieve their goals
 
-I have more than 15 years experience in product and UX design, product management, leadership, web development and customer success. I have worked in many different types of businesses with a diverse range of people.
+With over 15 years of experience spanning product and UX design, product management, leadership, web development, and customer success, I’ve had the privilege of working in a variety of businesses alongside diverse teams.
 
-I strongly believe that creating great product is a team sport. I have spent my career working in cross functional teams collaborating with team mates and stakeholders in order to deliver the best outcomes for customers.
+I firmly believe that building exceptional products is a team sport. Throughout my career, I’ve worked within cross-functional teams, fostering collaboration with colleagues and stakeholders to deliver outstanding outcomes for customers.
 
-I have also managed and led product teams. Using my experience to coach, support and mentor others to do their best work is something that I get great satisfaction from.
+As a leader, I’ve managed and guided product teams, finding great fulfilment in coaching, mentoring, and supporting others to excel in their work. Helping others grow and achieve their potential is a core part of what drives me.
 
-Outside of work I enjoy spending time with my family, squash, skiing, swimming, cooking.
+Outside of work, I enjoy spending time with my family, playing squash, skiing, swimming, cooking, and exploring new destinations through travel.

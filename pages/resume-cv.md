@@ -9,10 +9,23 @@ body_classes: page-resume
 
 # Career History
 
+## Product design lead - Spotlight Reporting
+
+#### January 2022 – Present
+
+#### Duties:
+
+- Product design and product management of Spotlight Reportings five products.
+- Creation and maintainence of a Figma component library and comprehensive design system.
+- Condicting in-depth user research, data analysis, interface design, prototyping and user testing.
+- Close collaboration with other members of the product team as well as with other teams in the business.
+- Identifying gaps in the customer journey and implementing initiatives to enhance the experience.
+- Presenting high-level design solutions to stakeholders and team members to get feedback and align on the best path forward.
+- Mentoring team members in design best practices, user research methodologies, and effective communication with stakeholders.
 
 ## Senior product designer and optmisation specialist - Hatch Invest
 
-#### April 2019 – Present
+#### April 2021 – December 2022
 
 #### Duties:
 
