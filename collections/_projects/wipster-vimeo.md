@@ -2,7 +2,7 @@
 layout: project-right
 title: "Wipster + Vimeo"
 description: "Wipster"
-weight: 7
+weight: 9
 thumbnail: "/assets/images/gen/projects/wipster-vim-front.png"
 image: "/assets/images/gen/projects/wipster-vim.jpg"
 client: "Wipster"

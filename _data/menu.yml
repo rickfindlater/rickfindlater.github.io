@@ -6,12 +6,22 @@ main:
     url: /projects/
     weight: 2
     child:
+      - name: "Spotlight AI"
+        icon: "/assets/images/icons/spotlight-logo2.svg"
+        icon_darkmode: "/assets/images/icons/spotlight-logo2.svg"
+        url: /projects/spotlight-AI/
+        description: "Spotlight Reporting"
+      - name: "Spotlight design system"
+        icon: "/assets/images/icons/spotlight-logo.svg"
+        icon_darkmode: "/assets/images/icons/spotlight-logo.svg"
+        url: /projects/spotlight-AI/
+        description: "Spotlight Reporting"
       - name: "Hatch Onboarding"
         icon: "/assets/images/icons/hatch-cross-smll.svg"
         icon_darkmode: "/assets/images/icons/hatch-cross-smll.svg"
         description: "Hatch Invest"
         url: /projects/hatch-onboarding/
-      - name: "Hatch Website Optimisation"
+      - name: "Hatch website optimisation"
         icon: "/assets/images/icons/hatch-logo-smll.svg"
         icon_darkmode: "/assets/images/icons/hatch-logo-smll.svg"
         description: "Hatch Invest"
@@ -30,7 +40,7 @@ main:
         icon: "/assets/images/icons/psgas.svg"
         icon_darkmode: "/assets/images/icons/psgas.svg"
         description: "Flux Federation"
-        url: /projects/powershop-gas/      
+        url: /projects/powershop-gas/
       - name: "Powershop Get Shifty"
         icon: "/assets/images/icons/psgs.svg"
         icon_darkmode: "/assets/images/icons/psgs.svg"
@@ -58,6 +68,10 @@ main:
   
 
 footer_primary:
+  - name: "Spotlight AI"
+    url: /projects/spotlight-AI/
+  - name: "Spotlight design system"
+    url: /projects/spotlight-design-system/
   - name: "Hatch Onboarding"
     url: /projects/hatch-onboarding/
   - name: "Hatch Website Optimisation"

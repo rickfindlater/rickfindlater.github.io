@@ -3,7 +3,7 @@ layout: project-right # alternative layouts: project, project-left, project-righ
 title: "Catalyst PaCT"
 permalink: "/projects/catalyst-pact/"
 description: ""
-weight: 8
+weight: 10
 thumbnail: "/assets/images/gen/projects/pact2-cover.png"
 image: "/assets/images/gen/projects/pact.png"
 client: "Catalyst IT and Ministry of Education"

@@ -16,8 +16,8 @@ body_classes: page-resume
 #### Duties:
 
 - Product design and product management of Spotlight Reportings five products.
-- Creation and maintainence of a Figma component library and comprehensive design system.
-- Condicting in-depth user research, data analysis, interface design, prototyping and user testing.
+- Creation and maintenance of a Figma component library and comprehensive design system.
+- Conducting in-depth user research, data analysis, interface design, prototyping and user testing.
 - Close collaboration with other members of the product team as well as with other teams in the business.
 - Identifying gaps in the customer journey and implementing initiatives to enhance the experience.
 - Presenting high-level design solutions to stakeholders and team members to get feedback and align on the best path forward.

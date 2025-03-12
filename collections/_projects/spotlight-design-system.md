@@ -1,7 +1,7 @@
 ---
 layout: project-right # alternative layouts: project, project-left, project-right, project-top
-title: "Spoltight Reporting design system"
-description: "Creation and maintainence of the Spotlight reporting dsesign system"
+title: "Spoltight design system"
+description: "Creation and maintainence of the Spotlight Reporting dsesign system"
 weight: 2
 permalink: /projects/spotlight-design-system/
 thumbnail: "/assets/images/gen/projects/spotlight-design.png"
