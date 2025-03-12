@@ -2,7 +2,7 @@
 layout: project-right # alternative layouts: project, project-left, project-right, project-top
 title: "Hatch Onboarding"
 description: "Optimisation of the Hatch customer onboarding experience"
-weight: 1
+weight: 3
 permalink: /projects/hatch-onboarding/
 thumbnail: "/assets/images/gen/projects/hatch-invest-in.png"
 image: "/assets/images/gen/projects/hatch-invest-in.png"

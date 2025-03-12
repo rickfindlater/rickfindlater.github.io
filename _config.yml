@@ -145,6 +145,6 @@ footer:
 bottom:
   enable_bottom: true # show/hide the entire bottom (below the footer)
   enable_bottom_menu: true # if enabled, the bottom menu can be edited in `_data/menu.yml`
-  copyright_text: "© 2022 Rick Findlater"
+  copyright_text: "© 2025 Rick Findlater"
 
 category_dir: category

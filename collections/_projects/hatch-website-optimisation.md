@@ -2,7 +2,7 @@
 layout: project-right # alternative layouts: project, project-left, project-right, project-top
 title: "Hatch Website Optimisation"
 description: "Optimisation of the Hatch public website"
-weight: 2
+weight: 4
 permalink: /projects/hatch-website/
 thumbnail: "/assets/images/gen/projects/hatch-website.png"
 image: "/assets/images/gen/projects/hatch-website.png"

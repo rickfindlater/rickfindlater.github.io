@@ -8,7 +8,7 @@ image: "/assets/images/gen/content/profile.png"
 
 # I love creating joyful experiences that make technology accessible and empower people to achieve their goals
 
-With over 15 years of experience spanning product and UX design, product management, leadership, web development, and customer success, I’ve had the privilege of working in a variety of businesses alongside diverse teams.
+With 20+ years of experience spanning product and UX design, product management, leadership, web development, and customer success, I’ve had the privilege of working in a variety of businesses alongside diverse teams.
 
 I firmly believe that building exceptional products is a team sport. Throughout my career, I’ve worked within cross-functional teams, fostering collaboration with colleagues and stakeholders to deliver outstanding outcomes for customers.
 

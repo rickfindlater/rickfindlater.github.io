@@ -2,7 +2,7 @@
 layout: project-right
 title: "Powershop Gas"
 description: ""
-weight: 5
+weight: 7
 permalink: /projects/powershop-gas/
 thumbnail: "/assets/images/gen/projects/ps-gas.png"
 image: "/assets/images/gen/projects/ps-gas.png"
