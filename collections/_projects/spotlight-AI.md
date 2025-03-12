@@ -4,8 +4,8 @@ title: "Spotlight AI"
 description: "Integration of AI into Spotlight Reporting"
 weight: 1
 permalink: /projects/spotlight-AI/
-thumbnail: "/assets/images/gen/projects/Spotlight-AI.png"
-image: "/assets/images/gen/projects/Spotlight-AI.png"
+thumbnail: "/assets/images/gen/projects/spotlight-AI.png"
+image: "/assets/images/gen/projects/spotlight-AI.png"
 client: "Spotlight Reporting"
 gallery:
   - image: "/assets/images/gen/projects/spotlight-AI-2.png"
