@@ -8,9 +8,9 @@ thumbnail: "/assets/images/gen/projects/Spotlight-AI.png"
 image: "/assets/images/gen/projects/Spotlight-AI.png"
 client: "Spotlight Reporting"
 gallery:
-  - image: "/assets/images/gen/projects/hatch-email.png"
-  - image: "/assets/images/gen/projects/int-series.png"
-  - image: "/assets/images/gen/projects/prod-tours.png"
+  - image: "/assets/images/gen/projects/spotlight-AI-2.png"
+  - image: "/assets/images/gen/projects/spotlight-AI-1.png"
+  # - image: "/assets/images/gen/projects/prod-tours.png"
 gallery_limit: 3
 ---
 

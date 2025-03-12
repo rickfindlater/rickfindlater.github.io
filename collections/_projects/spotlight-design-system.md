@@ -8,9 +8,9 @@ thumbnail: "/assets/images/gen/projects/spotlight-design.png"
 image: "/assets/images/gen/projects/spotlight-design.png"
 client: "Spotlight Reporting"
 gallery:
-  - image: "/assets/images/gen/projects/hatch-website.png"
-  - image: "/assets/images/gen/projects/google-optimize-1.png"
-  - image: "/assets/images/gen/projects/google-optimize-2.png"
+  - image: "/assets/images/gen/projects/spotlight-design-system3.png"
+  - image: "/assets/images/gen/projects/spotlight-design-system2.png"
+  - image: "/assets/images/gen/projects/spotlight-design-system1.png"
 gallery_limit: 3
 ---
 
