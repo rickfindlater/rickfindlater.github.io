@@ -10,8 +10,7 @@ client: "Spotlight Reporting"
 gallery:
   - image: "/assets/images/gen/projects/spotlight-AI-2.png"
   - image: "/assets/images/gen/projects/spotlight-AI-1.png"
-  # - image: "/assets/images/gen/projects/prod-tours.png"
-gallery_limit: 3
+gallery_limit: 2
 ---
 
 ### The Opportunity
