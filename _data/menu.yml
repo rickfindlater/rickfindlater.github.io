@@ -6,14 +6,19 @@ main:
     url: /projects/
     weight: 2
     child:
-      - name: "Spotlight AI"
+      - name: "Spotlight redesign"
         icon: "/assets/images/icons/spotlight-logo2.svg"
         icon_darkmode: "/assets/images/icons/spotlight-logo2.svg"
-        url: /projects/spotlight-AI/
+        url: /projects/spotlight-redesign/
         description: "Spotlight Reporting"
       - name: "Spotlight design system"
         icon: "/assets/images/icons/spotlight-logo.svg"
         icon_darkmode: "/assets/images/icons/spotlight-logo.svg"
+        url: /projects/spotlight-design-system/
+        description: "Spotlight Reporting"
+      - name: "Spotlight AI"
+        icon: "/assets/images/icons/spotlight-logo2.svg"
+        icon_darkmode: "/assets/images/icons/spotlight-logo2.svg"
         url: /projects/spotlight-AI/
         description: "Spotlight Reporting"
       - name: "Hatch Onboarding"
@@ -68,10 +73,12 @@ main:
   
 
 footer_primary:
-  - name: "Spotlight AI"
-    url: /projects/spotlight-AI/
+  - name: "Spotlight redesign"
+    url: /projects/spotlight-redesign/
   - name: "Spotlight design system"
     url: /projects/spotlight-design-system/
+  - name: "Spotlight AI"
+    url: /projects/spotlight-AI/
   - name: "Hatch Onboarding"
     url: /projects/hatch-onboarding/
   - name: "Hatch Website Optimisation"

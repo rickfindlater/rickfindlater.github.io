@@ -17,6 +17,7 @@ body_classes: page-resume
 
 - Product design and product management of Spotlight Reportings five products.
 - Creation and maintenance of a Figma component library and comprehensive design system.
+- Staying up to date with emerging technologies like AI and exploring innovative ways to leverage them as both productivity tools and product integrations.
 - Conducting in-depth user research, data analysis, interface design, prototyping and user testing.
 - Close collaboration with other members of the product team as well as with other teams in the business.
 - Identifying gaps in the customer journey and implementing initiatives to enhance the experience.
@@ -68,7 +69,7 @@ body_classes: page-resume
 
 ## Head of User Experience and Customer Success - Wipster
 
-### August 2013 - October 2016
+#### August 2013 - October 2016
 
 #### Duties:
 
