@@ -14,22 +14,40 @@ gallery:
 gallery_limit: 3
 ---
 
-### The opportunity
+### The Opportunity
 
-Once I started at Melon it soon became clear that the Melon brand needed a refresh. It felt unfinished and suffering from a lack of cohesion, which was having a negative impact on our position in the market as well as company culture. I convinced the other senior leaders at Melon that we needed to embark upon a rebranding project.
+After joining Melon, it quickly became clear that the brand lacked cohesion and felt unfinished. This inconsistency was not only affecting our market positioning but also influencing company culture.
 
-### My role
+Recognising the need for a refresh, I made the case to senior leadership that a **strategic rebrand** would help strengthen both our external identity and internal alignment. With their support, we embarked on a full-scale rebranding project.
 
-I am not a brand designer by trade so I decided to enlist the help of a branding agency I had worked with previously. I contacted them and together we developed a plan of attack.
+### My Role
 
-### Step one - brand strategy workshop
+While I am not a brand designer by trade, I had experience working with branding professionals. To ensure we achieved the best results, I partnered with a branding agency I had previously collaborated with. Together, we developed a structured plan to redefine Melon’s identity.
 
-For the first phase of the rebrand we gathered all the stakeholders together and undertook a series of brand strategy workshops over a period of 2 days. The brand workshops were facilitated by the branding agency and were a huge success.
+### Step One – Brand Strategy Workshop
 
-### Step two - presentation from agency and feedback
+We kicked off the project with an **intensive two-day brand strategy workshop** involving key stakeholders. Facilitated by the branding agency, these sessions helped us:
 
-After the branding workshops, the agency presented back to us a branding DNA document which summarised and formalised the results of the workshops. After a couple of iterations on this we decided we wanted to take things further and asked the agency to work on some branding guidelines that we could use to apply the Melon brand to our products, print materials and other collateral. This resulted in a Melon style guide document and some practical assets such as illustrations, imagery and font specifications.
+- Define Melon’s core values, mission, and positioning
+- Identify key brand attributes that would guide our visual and verbal identity
+- Align leadership and teams on a shared brand vision
 
-### Step three - ongoing work
+The workshops were a huge success, providing clarity and direction for the rebrand.
 
-The Melon brand continued to evolve as we applied it to our products and other collateral. I also began working on creating a public facing branding website to document Melons brand values, product design principles and design system.
+### Step Two – Refining the Brand Identity
+
+Following the workshops, the agency presented us with a Brand DNA document, which distilled our discussions into a formalised strategy. After a few iterations, we decided to take things further by developing comprehensive branding guidelines.
+
+The final deliverables included:
+
+- A Melon Style Guide outlining typography, colour schemes, and visual direction
+- Practical assets such as illustrations, imagery, and iconography
+- Guidelines for applying the brand consistently across products, print materials, and marketing collateral
+
+### Step Three – Ongoing Brand Evolution
+
+As we rolled out the new brand, it continued to evolve through real-world application. To ensure long-term consistency, I initiated the creation of a public-facing brand website that documented:
+
+- Melon’s brand values and identity
+- Product design principles
+- Our design system for internal and external teams to reference

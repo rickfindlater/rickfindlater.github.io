@@ -12,22 +12,40 @@ gallery:
 gallery_limit: 3
 ---
 
-### The opportunity
+### The Opportunity  
 
-In 2018 I was working for Flux Federation who provides the digital platform that Powershop NZ, UK and Australia use to retail power to their customers. The UK and Australia branches needed to start supplying natural gas to their customers to ensure they remained competitive in the market. At the time the Powershop platform only supported the sale of electricity so we had to design a way to add the ability for those markets to sell gas.
+In 2018, I was working at **Flux Federation**, the company behind the digital platform that Powershop NZ, UK, and Australia use to retail electricity.  
 
-### My role
+To remain competitive, the UK and Australian branches needed to start offering natural gas alongside electricity. However, at the time, the Powershop platform only supported electricity sales so we needed to design a solution to introduce gas retailing for these markets.  
 
-As a senior product designer at Flux my role involved both research (user interviews and testing) and design (wireframes and prototypes through to finished UI design). I also needed to work closely with stakeholders from the UK and Australia markets to ensure we delivered the optimal solution for each market.
+### My Role  
 
-### Step one - research
+As a **Senior Product Designer** at Flux, my role covered:  
 
-In order to understand more about how Powershop users wanted to be able to purchase their gas alongside electricity we began by running a series of remote user interviews with current Powershop customers in the UK and Australia. We also interviewed stakeholders from Powershop UK and Australia to understand more about how it should work from a power retailer point of view.
+- **Research:** Conducting user interviews and usability testing  
+- **Design:** Creating wireframes, prototypes, and final UI designs  
+- **Collaboration:** Working closely with stakeholders in the UK and Australia to ensure the solution met each market’s unique needs  
 
-### Step two - initial concepts and implementation
+### Step One – Research  
 
-After the initial round of user interviews myself and some of my colleagues worked on several sets of wireframes illustrating a few different options on how to tackle the problem. We then presented these back to key stakeholders for feedback and from that were able to distill the ideas down to two possible options. From there we ran a series of user testing sessions using prototypes made from the wireframes. This enabled us to decide which solution would work best for both markets. Myself and my colleagues then moved to production support mode where we assisted our developers in implementing the solution.
+To understand how Powershop users wanted to purchase gas alongside electricity, we conducted:  
 
-### Step three - ongoing work
+- **Remote user interviews** with existing Powershop customers in the UK and Australia
+- **Stakeholder interviews** with Powershop UK & Australia teams to align on business requirements  
 
-After the initial implementation of the solution had been live for a few months I flew to Melbourne where I ran some user testing sessions. We engaged the help of a user research agency to do the same thing in the UK market. From this we were able to make several improvements to the solution we had delivered.
+### Step Two – Concept Development & Implementation  
+
+Based on our research, my colleagues and I developed multiple wireframe concepts, exploring different approaches to integrating gas sales.  
+
+1. **Stakeholder feedback:** We presented the wireframes to key stakeholders, refining the ideas down to two potential solutions.  
+2. **User testing:** We tested interactive prototypes with real users to determine which solution worked best for both markets.  
+3. **Implementation support:** Once the final design was selected, we worked closely with developers to ensure a smooth implementation.  
+
+### Step Three – Ongoing Optimisation  
+
+After the initial solution had been live for a few months, we conducted post-launch user testing:  
+
+- I **flew to Melbourne** to run in-person testing sessions with customers.  
+- We engaged a **user research agency in the UK** to gather insights from that market.  
+
+These sessions provided valuable feedback, allowing us to refine and improve the solution based on real user experiences.  

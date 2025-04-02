@@ -14,26 +14,33 @@ gallery:
 gallery_limit: 3
 ---
 
-### The opportunity
+### The Opportunity  
 
-The Ministry of Education approached Catalyst IT to design and build PaCT (Progress and Consistency Tool). This was an online web application designed to support teachers in making judgments about students’ progress and achievement in relation to the New Zealand Curriculum National Standards.
+The Ministry of Education approached Catalyst IT to design and build **PaCT (Progress and Consistency Tool)**, an online web application aimed at supporting teachers in making judgments about students' progress and achievement against the New Zealand Curriculum National Standards.  
 
-This was a very politically charged project as the National Standards were at the time not a particularly popular addition amongst teachers. It was also occurring during the time that the Novopay system was failing which created further distrust amongst teachers towards anything related to the Ministry of Education. Thus there was a great deal of delicacy required in our liaison and meetings with teachers, teaching representatives and ministry officials.
+This project was politically sensitive, as the National Standards were not widely popular among teachers at the time. Additionally, the Ministry of Education was grappling with the failure of the Novopay payroll system, which had caused significant distrust among educators. This environment required a great deal of tact and sensitivity in our interactions with teachers, teacher representatives, and Ministry officials.  
 
-### My role
+### My Role  
 
-As a UX designer at Catalyst IT, myself and a colleague were tasked with the research, UX design, stakeholder liaison and implementation support for the project.
+As a **UX designer** at Catalyst IT, I was responsible, alongside a colleague, for leading the **research, UX design, stakeholder management**, and **implementation support** for the PaCT project.  
 
-### Step one - research
+### Step One – Research  
 
-The first stage of this project involved Interviews with the major stakeholders, Ministry officials, pedagogy experts and teacher representatives.
+The initial phase of the project involved:  
 
-We also spent a large amount of time travelling the country visiting schools and running user feedback and user testing sessions with teachers.
+- Conducting **interviews** with key stakeholders, including Ministry officials, pedagogy experts, and teacher representatives.  
+- Extensive fieldwork, where we travelled around the country visiting schools and running **user feedback** and **user testing** sessions with teachers.  
 
-### Step two - reporting back, initial concepts and implementation
+This research provided us with valuable insights into the needs and concerns of the teachers who would ultimately be using the tool.  
 
-After our initial stakeholder and user interviews sessions we then started creation of some initial wireframe prototypes. We then took those wireframes back to stakeholders and teacher representatives and ran some further sessions which enabled us to go through several iterations of the wireframes. Once we all agreed that they were ready for implementation, we worked closely with the rest of the Catalyst design and development team to assist in the initial delivery.
+### Step Two – Reporting Back, Initial Concepts & Implementation  
 
-Through the delivery of this project we provided regular presentations of progress to Ministry officials, pedagogy experts and teacher representatives. It was an important part of this project that feedback from all of these groups was regularly fed back into the product development.
+After gathering feedback from stakeholders and teachers, we began creating **wireframe prototypes**. We returned to the stakeholders and teacher representatives with these prototypes, running additional feedback sessions to refine the designs.  
 
-The resulting product was widely applauded by stakeholders and teachers alike. Pact is still being used by teachers in schools every day.
+Through several rounds of iterations, we worked closely with the Ministry and the wider project team to ensure the tool met the needs of all parties involved. We presented regular progress updates to Ministry officials, pedagogy experts, and teacher representatives, ensuring that their feedback was integrated throughout the design and development process.  
+
+Once the wireframes were finalised and agreed upon, we collaborated with the Catalyst design and development teams to assist in the tool's initial delivery.  
+
+### Step Three – Ongoing Success  
+
+The resulting product, **PaCT**, was widely praised by stakeholders and teachers alike for its usability and effectiveness. It remains in use today by teachers in schools across New Zealand, providing them with an essential tool to assess and track student progress.  

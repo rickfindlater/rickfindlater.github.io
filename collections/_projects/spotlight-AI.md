@@ -14,22 +14,25 @@ gallery_limit: 2
 ---
 
 ### The Opportunity
-With AI becoming increasingly prevalent among SaaS providers, Spotlight needed to develop a clear AI strategy. Many of our competitors had already launched AI integrations, so we had to take a responsible, staged approach to adopting this technology in a way that aligned with our vision and delivered real value to our users.
+With **AI** becoming increasingly prevalent among SaaS providers, **Spotlight** needed to develop a clear AI strategy. Many of our competitors had already launched AI integrations, so we had to take a responsible, staged approach to adopting this technology in a way that aligned with our vision and delivered real value to our users.
 
 ### My Role
-I was involved in this project from its inception, playing a key role from initial research and product design,  through to the release of our first MVP and beyond.
+I was involved in this project from its inception, playing a key role from **initial research** and **product design**,  through to the release of our **first MVP** and beyond.
 
 ### Step One: Research
-Given the commercial sensitivity of this project, we were mindful of not revealing our AI strategy too early to competitors. As a result, we couldn’t conduct initial user interviews. However, we leveraged past interviews and conducted a thorough review of customer feedback to identify the most valuable AI-driven opportunities for our product.
-Additionally, I conducted an in-depth analysis of our competitors’ AI offerings, as well as how other companies in adjacent industries were leveraging AI. This was complemented by extensive research into the latest AI technologies to understand their capabilities and potential applications.
+Due to the commercial sensitivity of the project, we had to be cautious about revealing our AI strategy too early to competitors. As a result, we couldn’t conduct fresh user interviews initially. Instead, we leveraged existing interview data and conducted a thorough review of customer feedback to identify the most valuable **AI-driven opportunities** for our product.
+
+In parallel, I performed an **in-depth analysis** of our competitors’ AI offerings and explored how companies in adjacent industries were using AI. This research was supplemented with extensive exploration of **emerging AI technologies** to understand their capabilities and potential applications within our product.
 
 ### Step Two: Brainstorming & Initial concepts and wireframes
-Once the research was complete, I presented my findings to stakeholders and the cross-functional team. We then ran a brainstorming session to explore possible AI integrations. From these discussions, we identified several promising directions.
-I translated these concepts into wireframes, which we reviewed together to determine the most viable option to take forward.
+Once the research phase was complete, I presented my findings to key stakeholders and the cross-functional team. Together, we conducted a **brainstorming session** to explore possible AI integrations. From these discussions, we identified several promising directions, which I then translated into **wireframes**.
+
+We reviewed the wireframes collectively and identified the most viable approach to move forward with.
 
 ### Step Three: Refining Designs & Supporting Development
-With a preferred approach selected, I collaborated with the team to refine the designs. We conducted a story mapping session to outline the development process before kicking off implementation.
-As development progressed, I transitioned into a production design role—working closely with developers to clarify design intent, answer questions, and create additional assets as needed.
+After selecting the preferred approach, I collaborated with the team to refine the design details. We conducted a **story mapping session** to outline the development process before moving into the implementation phase.
+
+As development progressed, I transitioned into a **production design role**, where I worked closely with developers to ensure clarity around design intent, answered questions, and created additional assets as needed to support the process.
 
 ### The Future
-Following the MVP release to a select beta group, we plan to closely monitor performance, gather feedback, and iterate before rolling it out to our wider user base. Looking ahead, we have ambitious plans to integrate AI across more areas of our product, ensuring we continue to deliver meaningful value to our customers.
+Following the release of the **MVP** to a select beta group, we will closely monitor performance, gather user feedback, and iterate before rolling it out to a broader audience. Looking ahead, we have **ambitious plans** to further integrate AI across other areas of our product, ensuring that we continue to deliver **meaningful value** to our customers.

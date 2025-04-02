@@ -13,34 +13,59 @@ gallery:
 gallery_limit: 3
 ---
 
-### The opportunity
+### The Opportunity  
 
-In early 2019 Melon was selected to be part of a new Ministry of Health initiative; delivered by Tu Ora Compass Health PHO across the Greater Wellington area. The initiative was called Piki.
+In early 2019, Melon was selected to be part of a new **Ministry of Health initiative**, delivered by Tu Ora Compass Health PHO across the Greater Wellington area. The initiative, called Piki, aimed to provide 18–25-year-olds with mild-to-moderate mental health conditions faster access to age-appropriate support.  
 
-The goal was to enable 18 – 25 year olds with mild-moderate mental health conditions to access a wider range of age appropriate support faster.
+At the time, Melon’s platform wasn’t specifically designed for this age group. To meet the initiative’s goals, we needed to:  
 
-At the time Melon didn't specifically target this age group so we needed to create a new program of multimedia resources as well as make UX changes to our product.
+- Develop a **new program of multimedia resources**  
+- Make **UX improvements** to our product to better engage younger users  
 
-### My role.
+### My Role  
 
-As the head of design leading a design team in a startup company, I needed to be an effective leader and manager to my team as well as perform ‘hands-on’ tasks across a variety of fields. For this project I was involved from the outset in planning and strategy as well as execution. I conducted research activities as well as being involved in implementation. I needed to direct and support members of my team while working closely with stakeholders and other members of the delivery team.
+As **Head of Design** at a small SaaS company, I had to balance **leadership, strategy, and hands-on execution**. For this project, my role spanned:  
 
-​We had a fairly short time period to accomplish this piece of work as the ministry were keen to get a pilot up in running as soon as possible. We also had a fairly small initial budget which meant we needed to ensure we got optimal value from a smaller amount of research.
+- **Planning & strategy** – collaborating with stakeholders to define the approach  
+- **Research & user insights** – conducting surveys, interviews, and usability testing  
+- **Design & implementation** – directing the design team while working closely with developers  
+- **Team leadership** – supporting and guiding my team through tight timelines and limited budgets  
 
-### Step one - research.
+Given the Ministry's urgency to launch a pilot as soon as possible, we had to maximise research value within a small initial budget while ensuring meaningful impact.  
 
-Myself and one other member of my team designed and executed on a program of research which involved surveys, user interviews and user testing. This resulted in an initial set of wireframe concepts.
+### Step One – Research  
 
-From this we were able to get a good understanding of both the kind of resources we needed to create as well as the UX changes we need to make to our product in order to make it appeal more to the target age group of 18 - 25 year olds.
+A colleague and I designed and executed a **research program** that included:  
 
-### Step two - reporting back, initial concepts and implementation.
+- **Surveys** to gather broad insights  
+- **User interviews** to explore real needs and pain points  
+- **Usability testing** to validate early ideas  
 
-Through the research phase it became clear to us that we needed to do a fairly large redesign of the resources section in the Melon web and mobile apps. Early and close collaboration with stakeholders, developers and testers has always been an important part of my design process so we reported back our findings and worked with the rest of the wider team to create some initial concepts for the redesign of the resources section.
+From this, we created an initial set of **wireframe concepts**, helping us determine:  
 
-We took these initial concepts out into the field and conducted a round of user testing. With the results of this testing we were able to further refine the concepts before working with the wider delivery team to implement them in our products.
+- The types of **resources** that would be most valuable  
+- The **UX changes** needed to better engage 18–25-year-olds  
 
-We also were able to feed information back to our clinical team to assist in the creation of new resource content specifically for the age group we were targeting.
+### Step Two – Concept Development & Implementation  
 
-### Step three - ongoing work.
+Our research showed that a major redesign of the resources section in Melon's web and mobile apps was necessary.  
 
-As part of the initial implementation of the Piki project we ensured we added comprehensive analytics tracking. Once the initial phase of the project had been released we began an analysis of this analytics data and, combined with some further user testing and interviews, we were able to release several more iterations on the work we had done.
+To ensure early collaboration and alignment, we:  
+
+1. **Reported back key findings** to stakeholders, developers, and testers  
+2. **Worked with the wider team** to develop initial concepts for the redesigned resources section  
+3. **Conducted user testing** to refine the designs before full implementation  
+
+Alongside these product changes, we also provided critical insights to our clinical team, helping shape new content specifically tailored to our target age group.  
+
+### Step Three – Ongoing Optimisation  
+
+To ensure continuous improvement, we embedded comprehensive analytics tracking into the initial release.
+
+Post-launch, we:  
+
+- Analysed user behaviour data
+- Conducted additional user testing & interviews
+- Released multiple iterative updates based on our findings  
+
+This data-driven, user-focused approach allowed us to continually refine the experience, ensuring Piki provided real value to its target audience.  

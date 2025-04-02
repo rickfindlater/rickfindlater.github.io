@@ -16,7 +16,7 @@ gallery_limit: 3
 
 ### The Opportunity
 
-I joined Spotlight Reporting as the first dedicated product designer, and it quickly became evident that there was significant work to be done in both UI and UX design. The product had evolved over time, but design had not kept pace, creating an opportunity to enhance usability and modernise the experience.
+I joined **Spotlight Reporting** as the first dedicated product designer, and it quickly became evident that there was significant work to be done in both UI and UX design. The product had evolved over time, but design had not kept pace, creating an opportunity to enhance usability and modernise the experience.
 
 ### My Role
 
@@ -25,10 +25,12 @@ Given the scale of the challenge, a full redesign of all Spotlight products at o
 ### Step One: Research & Product Audit
 
 The first step was conducting a comprehensive audit of Spotlight’s products. This involved:
-- Analysing user feedback and analytics data to uncover pain points.
-- Collaborating with stakeholders and the product team to assess areas with the most opportunity for improvement.
+- Analysing **user feedback** and **analytics data** to uncover pain points.
+- Collaborating with **stakeholders and the product team** to assess areas with the most opportunity for improvement.
 
-Through this research, we identified two key areas to focus on first: the organisation dashboard and the data import process.
+Through this research, we identified two key areas to focus on first: 
+- The **organisation dashboard**.
+- The **data import process**.
 
 ### Step Two: Brainstorming, Concept Development & Wireframing
 
@@ -40,10 +42,9 @@ I then worked with the team to develop concepts and wireframes, visualising poss
 
 Once a preferred approach was selected, I collaborated with the team to refine the designs. Having already established the foundation of a new design system for Spotlight, I applied this to ensure consistency across the redesign.
 
-To support implementation:
-- We conducted a story mapping session to outline the development process.
-- I worked closely with developers, clarifying design intent, answering questions, and creating additional assets as needed.
-- As development progressed, I took on a production design role, ensuring the final product stayed aligned with our vision.
+To support the development process, I:
+- Held a **story mapping session** to outline the development flow.  
+- Collaborated closely with **developers**, clarifying design intent, answering questions, and creating additional assets as needed.  
 
 ### The Future
 

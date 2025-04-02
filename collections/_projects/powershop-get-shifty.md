@@ -13,26 +13,46 @@ gallery:
 gallery_limit: 3
 ---
 
-### The opportunity
+### The Opportunity  
 
-In New Zealand some of the operators of the various electricity grids around the country decided to move to a peak vs off peak model of pricing for electricity in order to ease the peak time power load on the national electricity grid.
+In New Zealand, some electricity grid operators introduced a **peak vs. off-peak pricing model** to help ease demand during peak hours.  
 
-Powershop NZ saw this as an opportunity to launch a new product in the market so they asked us to come up with a way to turn this opportunity into a new electricity retail product that would appeal to their customers.
+Powershop NZ saw this as an opportunity to launch a new retail electricity product that would encourage customers to shift their electricity usage to off-peak times. Our team was tasked with designing a solution that would make this concept appealing and easy to adopt.  
 
-### My role
+### My Role  
 
-As the lead product designer on this project I worked closely with a senior member of the marketing design team at Powershop NZ throughout this project to ensure that we came up with the best solution for both their business and their customers. My role involved research, UX and UI design, stakeholder management and production design support during the implementation of the solution.
+As the **lead product designer**, I worked closely with a senior member of Powershop NZ’s marketing design team to ensure we developed a solution that balanced business objectives with a great customer experience.  
 
-### Step one - research
+My responsibilities included:  
 
-We began by running a series of stakeholder interviews with Powershop NZ staff members to get a solid understanding of the scope of the opportunity. We also ran a series of user interview sessions, visiting Powershop customers in their houses to talk about how and when they used their electricity.
+- Conducting **research** with stakeholders and customers  
+- Leading **UX and UI design**  
+- Managing **stakeholder engagement**  
+- Providing **production design support** during implementation  
 
-### Step two - initial concepts and implementation
+### Step One – Research  
 
-From the research we undertook we were able to come up with ten different ideas for how Powershop could utilise this opportunity. We decided to do some rough wireframe sketches to illustrate these ideas and pitch them back to key stakeholders before asking them to vote on which they thought was the best option. Through this process we were able to distill these ideas down to three top contenders. We then ran some user testing sessions using prototypes to pick an eventual winner.
+To understand the scope of the opportunity, we conducted:  
 
-I then worked with the product delivery team to implement this solution which went to market with the name ‘Get Shifty’.
+- **Stakeholder interviews** with Powershop NZ staff to align on business goals  
+- **Customer interviews** in their homes to learn about their electricity usage habits  
 
-### Step three - ongoing work
+### Step Two – Concept Development & Implementation  
 
-After the product was in market for a couple of months we ran a series of user testing sessions with Powershop NZ customers and also performed an analytics analysis to see how people's electricity buying habits had changed. This enabled us to iterate and improve on what we delivered.
+From our research, we generated ten different ideas for how Powershop could introduce peak vs. off-peak pricing.  
+
+1. We created rough wireframe sketches to illustrate each idea.  
+2. Key stakeholders reviewed the concepts and voted on the most promising options.  
+3. This process narrowed the ideas down to three top contenders.  
+4. We developed interactive prototypes and ran **user testing sessions** to determine the best solution.  
+
+The final product, named "Get Shifty," was designed to make it easy for customers to adjust their electricity usage and benefit from off-peak rates. I then worked with the product delivery team to implement the solution.  
+
+### Step Three – Ongoing Optimisation  
+
+A few months after launch, we conducted:  
+
+- **User testing sessions** with Powershop NZ customers to gather direct feedback  
+- **Analytics analysis** to track how customers’ electricity-buying habits had changed  
+
+These insights allowed us to refine and improve the product based on real-world usage.  

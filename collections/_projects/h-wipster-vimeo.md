@@ -13,22 +13,38 @@ gallery:
   - image: "/assets/images/gen/projects/vimwip1.jpg"
 ---
 
-### The opportunity
+### The Opportunity  
 
-Towards the end of 2015 Wipster was lucky enough to secure a partnership with Vimeo, one of the global leaders in online video hosting. As part of this we agreed to design and build an advanced Vimeo integration into the Wipster app. For their part of the deal Vimeo agreed to add a link to review videos using Wipster on their Video clip page.
+At the end of 2015, Wipster secured a partnership with Vimeo, one of the global leaders in online video hosting. As part of the deal, we agreed to design and build an advanced **Vimeo integration** into the Wipster app. In return, Vimeo added a link to review videos using Wipster on their video clip page.  
 
-### My role
+### My Role  
 
-I led a user testing project using a prototype of the Vimeo integration. This involved setting up and running face to face user tests, online user tests and also flying to New York to run user tests with members of the Vimeo team at Vimeo HQ.
+I led a **user testing project** for the Vimeo integration prototype. My responsibilities included:  
 
-### Step one - research
+- Setting up and running both face-to-face and online user tests
+- Traveling to **New York** to conduct user testing with members of the Vimeo team at Vimeo HQ  
+- Consolidating feedback and ensuring it was used to refine the integration  
 
-All the user sessions that I ran were video recorded and once complete I reviewed all of them to extract the main points into a document. I then used this list of consolidated feedback to create a report that included the issues that users faced, the priority of the issue based on the number of times requested as well as a proposed solution. This report was then presented to the rest of the team and the results were used to refine the prototype until it was ready for development.
+### Step One – Research  
 
-### Step two - implementation
+For each user testing session, I video recorded the tests and thoroughly reviewed the footage. I then compiled the main takeaways into a document, which included:  
 
-The user testing project resulted in many design refinements being made before development started. This saved Wipster time, money and user churn through not having to make these changes once the integration was already built and released.
+- Key issues faced by users
+- Prioritisation of issues based on frequency  
+- Proposed solutions for each issue  
 
-### Step three - ongoing work
+This report was shared with the team and served as the foundation for refining the prototype before development began.  
 
-The Vimeo integration was a great success and resulted in a huge jump in the number of paid users subscribed to Wipster. After we released the initial version we constantly monitored user analytics and ran more rounds of user testing. This resulted in us being able to do several iterations on the initial implementation.
+### Step Two – Implementation  
+
+The insights gained from user testing led to significant **design refinements** before the development phase. By addressing key issues early, we were able to:  
+
+- Save time and money by avoiding costly changes after the integration was built  
+- Reduce user churn by delivering a more polished, user-friendly product  
+
+### Step Three – Ongoing Optimisation  
+
+The **Vimeo integration** was a huge success, leading to a significant increase in the number of paid users subscribing to Wipster. After the initial release, we:  
+
+- Monitored **user analytics** to identify areas for improvement  
+- Conducted further rounds of user testing, resulting in several **iterations** to optimise the user experience and functionality  
