@@ -16,32 +16,34 @@ gallery_limit: 3
 
 ### The opportunity
 
-I joined Hatch in 2021 as a product designer to help create a new team focused on experience and conversion rate optimisation.
+I joined Hatch in 2021 as a product designer to help establish a new team focused on optimising user experience and conversion rates.
 
-After some research assessing the performance of the various parts of the Hatch app it became obvious that the area that needed the most attention was the customer onboarding funnel.
-
-Specially this meant helping a customer go from signing up through to becoming a successfull investor.
+Through research and performance analysis of different areas within the Hatch app, it became clear that the customer onboarding funnel required the most attention. Specifically, this meant guiding users from signing up to becoming successful investors.
 
 ### My role
 
-As a product designer my role included working closely with a data specialist to identify the main gaps in the funnel then, through experimentation, design and deliver solutions iteratively.
+As a product designer, I worked closely with a data specialist to identify gaps in the onboarding funnel. Using an iterative approach, we experimented, designed, and delivered solutions to improve conversion rates.
 
 ### Step one - Creating a benchmark
 
-Our first step was to assess the performance of the current onboarding process which consisted of a series of emails being sent out in succession over a couple of weeks. We measured open and click rates as well common activities that users performed in the app after receiving one of these emails. From this we were able to create a benchmark to measure the success of all changes we made.
+Our first task was to evaluate the performance of the existing onboarding process, which primarily relied on a series of automated emails sent over several weeks. We tracked key metrics such as email open rates, click-through rates, and user engagement within the app after receiving these emails. This data helped us establish a benchmark to measure the impact of future improvements.
 
 ### Step two - Initial design and experimentation
 
-Once we had a benchmark set we went to work designing several possible solutions . We made the decision to start with emails as these were able to be designed and built inside a tool called Intercom. This enabled us to deliver, measure and iterate faster that we could if we were operating inside the normal product delivery process. 
+With the benchmark in place, we began designing potential solutions. Given that emails were already a core part of the onboarding process, we decided to optimise them first.
 
-Intercom also enabled us to easily set up and report on multivariate testing of the emails we designed as well as include content personalised to individual users based on actions they had already taken in the Hatch app.
+We used **Intercom**, a customer communication tool, to quickly design, build, and deploy new email sequences. This approach allowed us to test and iterate faster than if we had worked within the standard product development cycle.
+
+Intercom also enabled us to:
+- Set up and analyse multivariate tests
+- Personalise email content based on each user’s actions within the Hatch app
 
 ### Step two - First results
 
-After implementation of the new email series we began measuring how far users were getting though the new funnel. Almost immediately we began to see an increase in the percentage of Hatch users completing the funnel and going on to become successful investors.
+After implementing the new email series, we tracked user progression through the onboarding funnel. Almost immediately, we observed an increase in the percentage of users completing the funnel and becoming successful investors.
 
-### Step two - Ongoing work
+### Step Four – Expanding the Approach
 
-Having tightened the email onboarding funnel we then moved on to creating a series of in app product tours using the same process as we did for the emails. These were designed to introduce users to key feaures if they had not already discovered them themselves.
+With email onboarding improved, we turned our attention to in-app product tours, following the same iterative process. These tours introduced users to key features they had not yet discovered, further improving engagement.
 
-Again we began to see significant increase in the amount of users once we implimented this new series. Following on from this we planned to do the same using other onboarding methods such as SMS and push notifications.
+Once again, we saw a **significant increase** in user retention and conversion rates. Encouraged by these results, we planned to extend the onboarding strategy to include **SMS and push notifications** to further enhance the experience.

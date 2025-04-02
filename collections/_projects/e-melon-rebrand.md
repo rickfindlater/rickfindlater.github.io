@@ -3,6 +3,7 @@ layout: project-right
 title: "Melon rebrand"
 description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
 weight: 6
+permalink: /projects/melon-rebrand/
 thumbnail: "/assets/images/gen/projects/melon-rebrand1.png"
 image: "/assets/images/gen/projects/melon-rebrand1.png"
 client: "Melon Health and Foundry Creative"
