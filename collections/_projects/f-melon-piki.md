@@ -3,6 +3,7 @@ layout: project-right # alternative layouts: project, project-left, project-righ
 title: "Melon Piki"
 description: "Ministry of Health initiative; delivered by Tu Ora Compass Health PHO across the Greater Wellington area"
 weight: 5
+permalink: /projects/melon-piki/
 thumbnail: "/assets/images/gen/projects/melon-piki-thumb.png"
 image: "/assets/images/gen/projects/melon-piki-thumb.png"
 client: "Melon Health and Ministry of Health"
