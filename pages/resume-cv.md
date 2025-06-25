@@ -102,31 +102,13 @@ body_classes: page-resume
 - Management of technical systems.
 - Client relationship management.
 
-## Legal Editor - Thomson Reuters
-
-#### 2001 – 2004
-
-#### Duties
-
-- Editing of legal textbooks.
-
-
 # Academic
 
 ## Natcoll Design Technology School
-
-#### 2007
 
 Diploma of Web Design and Development.
 
 
 ## Victoria University of Wellington
 
-#### 1996 – 1999
-
 Bachelor of Arts (B.A.), English Language and Literature.
- 
-
-## Wellington Boys College
-
-#### 1991 – 1995
