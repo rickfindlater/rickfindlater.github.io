@@ -2,7 +2,7 @@
 layout: home
 permalink: "/"
 title: "Hi, I'm Rick"
-description: "I specialise in product design, product management, UX, digital strategy, optimisation & leadership. Below is a selection of recent projects I have worked on."
+description: "I specialise in product design, product management, UX, digital strategy, optimisation, & leadership. Here are some recent projects. For more, check the Projects menu above."
 meta_description: "Rick Findlater - Product design & management, digital strategy, optimisation & leadership"
 meta_title: Rick Findlater
 subscribe: false
